@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A large and particular relation of the affairs of Ireland in a letter to a person of honour / from a gentleman at Chester who came from Dublin, June 26, and arrived here July 1, 1689.</title>
+            <author>J. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70640</idno>
+            <idno type="STC">Wing M37A</idno>
+            <idno type="STC">ESTC R3686</idno>
+            <idno type="EEBO-CITATION">08988923</idno>
+            <idno type="OCLC">ocm 08988923</idno>
+            <idno type="VID">42156</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42156)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 817:13 or 1289:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A large and particular relation of the affairs of Ireland in a letter to a person of honour / from a gentleman at Chester who came from Dublin, June 26, and arrived here July 1, 1689.</title>
+                  <author>J. M.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J.M.</note>
+                  <note>This item appears at reels 817:13 and 1289:19.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+               <term>Broadsides --  England --  London --  17th century 2 rbgenr</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:42156:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>A Large and Particular RELATION OF THE <hi>Affairs of Ireland.</hi>
+            </head>
+            <head type="sub">In a LETTER to a Perſon of Honour, from a Gentleman at <hi>Cheſter,</hi> who came from <hi>Dublin, June 26,</hi> and arrived here <hi>July 1, 1689.</hi>
+            </head>
+            <p>Licenſed and Entred according to Order.</p>
+            <div type="body_of_letter">
+               <opener>
+                  <dateline>
+                     <hi>Cheſter,</hi> 
+                     <date>July 1. 1689.</date>
+                  </dateline>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THIS is to acquaint you that I am ſafely arrived here, having run thro' many hazards and dangers, but being reſolved to attempt the getting away from <hi>Dublin,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding all Difficulties; in order to in<g ref="char:EOLhyphen"/>form the Government here of the pre<g ref="char:EOLhyphen"/>ſent poſture of Affairs in <hi>Ireland,</hi> on <hi>Tueſday</hi> laſt, at ten of the Clock at Night, my ſelf and four more perſons came to the Point of <hi>Dawky,</hi> an Iſland toward <hi>Bray,</hi> having order'd a ſmall Wherry and two Boat-men to ſtay our coming under a great Rock; there being a whole Regi<g ref="char:EOLhyphen"/>ment placed along the ſhore between <hi>Dub<g ref="char:EOLhyphen"/>lin</hi> and <hi>Bray;</hi> to avoid being ſeen, we went down the great Rock to the Boat; but not ſo privately but the next Watch made towards us, about thirty in number, we made haſte and got into the Boat, they following, called to us, and ſwore they would fire, if we did not come back; notwithſtanding which, we put to Sea, knowing it was no leſs than hanging mat<g ref="char:EOLhyphen"/>ter if we return'd; the Souldiers we be<g ref="char:EOLhyphen"/>lieve wanted Match, ſo that there was no ſhots made: We landed in <hi>Wales</hi> near <hi>Moſſom;</hi> on <hi>Thurſday</hi> laſt, having but two Boat-men and three Oars, one being loſt getting off from the Rock; My Brother <hi>M</hi>— was Pilate, but neither he nor any of us had ever been on the <hi>Engliſh</hi> ſhore before.</p>
+               <p>I here ſend you the following Relation (in ſhort) how it is with our Friends in poor <hi>Ireland.</hi> There has of late been a conſtant Correſpondence between ſeveral Perſons of note in <hi>Lancaſhire,</hi> with the late King, in order to raiſe an Army in <hi>England,</hi> who made ſeveral Voyages in the Cuſtom-houſe Boat; which I under<g ref="char:EOLhyphen"/>ſtand has been taken lately at <hi>Denby,</hi> but <hi>B</hi>—, &amp;c. was not then in her: They are now fitting out ſome other Boats for the ſame purpoſe, and a Yatch; likewiſe a Privateer of 14 Guns and 60 Men; one <hi>Bennett</hi> is Captain of her; I was on board her, and ſaw how ſhe is provided, and went to drink with <hi>Bennett,</hi> who ſwore he would take and burn all the Veſſels on the <hi>Welſh</hi> Coaſt in 14 days; he ſets to Sea this Week. There was a deſign to have had two Camps, one on each ſide of <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> in ſight of the Harbour (about a Month ſince,) but at that time <hi>Enniskilling</hi> ſend<g ref="char:EOLhyphen"/>ing forth 400 Horſe, they went up as far as the Counties of <hi>Leitrim</hi> and <hi>Longford,</hi> thro' <hi>Weſtmeath</hi> and part of <hi>Meath</hi> and <hi>Ca<g ref="char:EOLhyphen"/>van,</hi> and brought back from the <hi>Iriſh</hi> above 6000 head of Cattel; Difarming ſeveral Companies in their way; which made the late King reſolve to bend all his Force a<g ref="char:EOLhyphen"/>gainſt that place to reduce it; and accord<g ref="char:EOLhyphen"/>ingly Gen. <hi>Roſe</hi> march'd to <hi>Trim,</hi> where he rendevouz'd 8000 Horſe and Foot: But
+<pb n="2" facs="tcp:42156:2"/>
+                  <!-- PDF PAGE 8 -->at that time an Expreſs being brought to the late King, and <hi>French</hi> Embaſſadour, (who lives in Sir <hi>John Davys</hi> Houſe,) That Collnel <hi>Kirk</hi> had Sail'd to the Re<g ref="char:EOLhyphen"/>lief of <hi>Derry;</hi> and that <hi>Derry</hi> had made a vigorous Sally, and killed many of their Men, General <hi>Roſe</hi> and his Army were forthwith order'd againſt <hi>Derry,</hi> with the whole Flower of the Army, and to leave <hi>Enniskilling</hi> until <hi>Derry</hi> were ta<g ref="char:EOLhyphen"/>ken, which they were daily in expectati<g ref="char:EOLhyphen"/>on of; for the late K. ſaid on <hi>Munday</hi> laſt, The Garriſon did at that time live on Horſe-fleſh, and were in a ſtarving Con<g ref="char:EOLhyphen"/>dition; but ſtill continue to make brave Sallies; and as the <hi>Iriſh</hi> own, have killed near 3000 in two late Sallies. There is but two Regiments in <hi>Dublin,</hi> and very few Forces in <hi>Munſter,</hi> and <hi>Leinſter;</hi> all are in the <hi>North,</hi> about <hi>Belfast, Carrick-Fergus, Lisburn, Antrim,</hi> and <hi>Colrain,</hi> the latter whereof they are fortifying, and e<g ref="char:EOLhyphen"/>recting in it great Stores of Proviſions, <hi>&amp;c.</hi> to ſupply the Army. <hi>Enniskilling</hi> has ta<g ref="char:EOLhyphen"/>ken ſeveral parcels of their Proviſions and Ammunition, going to <hi>Derry,</hi> and have defeated many Parties of the <hi>Iriſh.</hi> Coll. <hi>Kirk</hi> had not gotten into <hi>Derry</hi> when I came away; but they expected daily to hear he had attempted it.—It is believ'd that no leſs then 10000 have been kill'd before <hi>Derry.</hi> And <hi>Will. Dopping.</hi> Brother to <hi>James Dopping</hi> the Attorney, has excee<g ref="char:EOLhyphen"/>dingly contributed to the preſervation of that Place, in his careful and wary diſtri<g ref="char:EOLhyphen"/>bution of the Proviſions, <hi>&amp;c.</hi> being Clerk of the Stores: He is extreamly rated at by the <hi>Iriſh,</hi> and admired by the Garriſon: The late K. ſent his Wife and Children to him, with a Pardon, and great Promiſes; but he rejected all, and ſent her back again.</p>
+               <p>The King refuſes to let Mr. <hi>Price</hi> come away, until <hi>Nugent</hi> be firſt ſent over, and 10000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> which he ſaith Mr. <hi>Price</hi> owes him. Money is very ſcarce there, for the <hi>French</hi> Ambaſſador will not part with any Money, until the <hi>Iriſh</hi> Army be landed in <hi>Scotland,</hi> or <hi>England,</hi> thinking to get ma<g ref="char:EOLhyphen"/>ny Friends by their punctual Payment there. At preſent they have coined Cop<g ref="char:EOLhyphen"/>per Money, which paſſes for 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr> tho' not worth half a Farthing, and doth oblige the People to take them, but will take none of it in his Revenue; which is one way to get all the Money in the Country into their own hands. They deſign likewiſe to make half Crowns and Crown pieces of the ſame ſort. The Parliament go on, and the Royal Aſſent is given to the fol<g ref="char:EOLhyphen"/>lowing Acts, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>1. <hi>Twenty Thouſand Pound</hi> per <hi>Month, for</hi> 13 <hi>Months, to the King.</hi>
+                  </item>
+                  <item>2. <hi>Repealing the</hi> Act of Settlement, <hi>and Reſtoring old Proprietors.</hi>
+                  </item>
+                  <item>3. <hi>Liberty of Conſcience.</hi>
+                  </item>
+                  <item>4. <hi>Taking off Penal Laws and Oaths.</hi>
+                  </item>
+                  <item>5. <hi>Taking off all Writs of Error, and Ap<g ref="char:EOLhyphen"/>peals to</hi> England.</item>
+                  <item>6. <hi>Taking off Valuation Money, and other Rights from the Clergy.</hi>
+                  </item>
+                  <item>7. <hi>Repealing the Act of the</hi> 23 Octob.</item>
+                  <item>8. <hi>No benefit of Clergy for Two Years.</hi>
+                  </item>
+                  <item>9. <hi>All Patents for Offices void.</hi>
+                  </item>
+                  <item>10. Ireland <hi>to be independant of</hi> England.</item>
+               </list>
+               <p>They have ſeized on all Proteſtants Goods, and Eſtates, that are come away; and are daily doing the like to them that ſtay, under colour of Plots, or ſome De<g ref="char:EOLhyphen"/>ſign or other. I hope in God they will ha<g ref="char:EOLhyphen"/>ſten Forces to relieve thoſe People which have ſuffer'd ſo much.</p>
+               <p>
+                  <hi>Tyrconnel</hi> ſtill keeps at <hi>Chappel-Lizard,</hi> being out of favour. The Proteſtant Lords have entred their Proteſt againſt the Parliament Proceedings; and among the reſt the young Lord of <hi>Hoath</hi> is very brisk.</p>
+               <p>I have ſince my Arrival met with ſome of our <hi>Iriſh</hi> Gentlemen, that are ſaid in <hi>Ireland,</hi> to be managers againſt their K. and Country, having the Honour to be much talked of there, and yet are wanting Employment here, which is ill luck on both hands. They have ſeized on all, <hi>&amp;c.</hi>
+               </p>
+               <closer>I am, SIR, <signed>Your humble Servant, <hi>J.M.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertiſement.</head>
+            <p>THE Hiſtory of the late Revolution in <hi>England</hi> With the Cauſes and Means by which it was Accompliſhed. Together with the <hi>Settlement</hi> there of under their moſt Serene <hi>Majeſties</hi> King <hi>William</hi> and Queen <hi>Mary,</hi> by the <hi>Lords</hi> and <hi>Commons</hi> Aſſem<g ref="char:EOLhyphen"/>bled in this preſent Parliament. Printed for <hi>Tho. Sa<g ref="char:EOLhyphen"/>lisbury</hi> at the Sign of the <hi>Temple</hi> near <hi>Temple-bar</hi> in <hi>Fleetſtreet.</hi> 1689.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Randal Taylor</hi> near <hi>Stationers-Hall.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
